@@ -10,6 +10,8 @@ sites:
     url: https://discord-html.tk
   - name: Status
     url: https://status.discord-html.tk
+  - name: Message API
+    url: https://discordhtml-api.guacaplushy2.repl.co
     
 assignees:
   - guacaplushy
@@ -29,5 +31,3 @@ status-website:
       href: https://discordhtml-demo.daguacaplushy.repl.co
     - title: Discord
       href: https://discord.gg/W5QserHkTV
-
-# See https://upptime.js.org/docs/configuration for help.

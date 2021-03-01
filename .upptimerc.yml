@@ -19,6 +19,7 @@ status-website:
   cname: status.discord-html.tk
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Discord.html status
+  theme: dark
   navbar:
     - title: Website
       href: https://discord-html.tk

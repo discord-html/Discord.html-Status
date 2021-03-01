@@ -76,19 +76,19 @@
     "url": "https://discordhtml-api.guacaplushy2.repl.co",
     "icon": "https://favicons.githubusercontent.com/discordhtml-api.guacaplushy2.repl.co",
     "slug": "message-api",
-    "status": "down",
-    "uptime": "16.14%",
-    "uptimeDay": "16.14%",
-    "uptimeWeek": "16.14%",
-    "uptimeMonth": "16.14%",
-    "uptimeYear": "16.14%",
-    "time": 375,
-    "timeDay": 375,
-    "timeWeek": 375,
-    "timeMonth": 375,
-    "timeYear": 375,
+    "status": "up",
+    "uptime": "33.38%",
+    "uptimeDay": "33.38%",
+    "uptimeWeek": "33.38%",
+    "uptimeMonth": "33.38%",
+    "uptimeYear": "33.38%",
+    "time": 261,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2021-03-01": 0
+      "2021-03-01": 8
     }
   }
 ]

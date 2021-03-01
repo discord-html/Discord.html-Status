@@ -1,6 +1,5 @@
 owner: discord-html
 repo: Discord.html-Status
-BETA_LINK: https://discordhtml.daguacaplushy.repl.co
 
 sites:
   - name: Demo
@@ -18,7 +17,7 @@ assignees:
 
 status-website:
   cname: status.discord-html.tk
-  logoUrl: https://discord-html.tk/assets/logo.png
+  logoUrl: https://github.com/discord-html/Discord.html-Status/blob/master/assets/logo.png?raw=true
   name: Discord.html status
   theme: dark
   navbar:

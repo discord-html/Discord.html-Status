@@ -17,7 +17,7 @@ assignees:
 
 status-website:
   cname: status.discord-html.tk
-  logoUrl: https://github.com/discord-html/Discord.html-Status/blob/master/assets/logo.png?raw=true
+  logoUrl: https://raw.githubusercontent.com/discord-html/Discord.html-Status/master/assets/logo.png
   name: Discord.html status
   theme: dark
   navbar:

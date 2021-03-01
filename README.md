@@ -1,6 +1,7 @@
 # [📈 Live Status](https://status.discord-html.tk): <!--live status--> **🟩 All systems operational**
 
 This is the repository for the Discord.html status monitor.
+
 [![Uptime CI](https://github.com/discord-html/Discord.html-Status/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/discord-html/Discord.html-Status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/discord-html/Discord.html-Status/workflows/Graphs%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Graphs+CI%22)

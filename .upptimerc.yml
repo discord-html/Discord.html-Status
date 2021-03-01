@@ -8,6 +8,8 @@ sites:
     url: $BETA_LINK
   - name: Website
     url: https://discord-html.tk
+  - name: Status
+    url: https://status.discord-html.tk
     
 assignees:
   - guacaplushy
@@ -18,8 +20,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Discord.html status
   navbar:
-    - title: Status
-      href: /
+    - title: Website
+      href: https://discord-html.tk
     - title: GitHub
       href: https://github.com/$OWNER/
     - title: Try Discord.html
@@ -27,4 +29,4 @@ status-website:
     - title: Discord
       href: https://discord.gg/W5QserHkTV
 
-# See https://upptime.js.org/docs/configuration for help
+# See https://upptime.js.org/docs/configuration for help.

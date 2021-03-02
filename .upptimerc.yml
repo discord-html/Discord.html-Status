@@ -1,5 +1,6 @@
 owner: discord-html
 repo: Discord.html-Status
+API_LINK: https://discordhtml-api.guacaplushy2.repl.co 
 
 sites:
   - name: Demo
@@ -10,8 +11,8 @@ sites:
     url: https://discord-html.tk
   - name: Status
     url: https://status.discord-html.tk
-  - name: Message API
-    url: $MESSAGE_API_LINK
+  - name: API
+    url: $API_LINK
     
 assignees:
   - guacaplushy

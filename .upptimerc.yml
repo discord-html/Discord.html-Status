@@ -11,7 +11,7 @@ sites:
   - name: Status
     url: https://status.discord-html.tk
   - name: API
-    url: https://discordhtml-api.guacaplushy2.repl.co
+    url: $API_LINK
     
 assignees:
   - guacaplushy

@@ -1,7 +1,7 @@
 url: $API_LINK
-status: down
-code: 500
-responseTime: 10842
-lastUpdated: 2021-03-23T17:26:51.487Z
+status: up
+code: 200
+responseTime: 251
+lastUpdated: 2021-03-23T17:58:20.950Z
 startTime: Tue Mar 02 2021 17:13:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

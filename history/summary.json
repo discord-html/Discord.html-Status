@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/discordhtml-demo.daguacaplushy.repl.co",
     "slug": "demo",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 613,
-    "timeDay": 249,
-    "timeWeek": 249,
-    "timeMonth": 613,
-    "timeYear": 613,
-    "dailyMinutesDown": {
-      "2021-03-02": 2,
-      "2021-03-01": 31
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 605,
+    "timeDay": 242,
+    "timeWeek": 250,
+    "timeMonth": 605,
+    "timeYear": 605,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Beta",
@@ -26,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "beta",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 465,
-    "timeDay": 228,
-    "timeWeek": 270,
-    "timeMonth": 465,
-    "timeYear": 465,
-    "dailyMinutesDown": {
-      "2021-03-02": 2,
-      "2021-03-01": 31
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 460,
+    "timeDay": 259,
+    "timeWeek": 273,
+    "timeMonth": 460,
+    "timeYear": 460,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website",
@@ -47,20 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/discord-html.tk",
     "slug": "website",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 524,
-    "timeDay": 311,
-    "timeWeek": 328,
+    "timeDay": 546,
+    "timeWeek": 358,
     "timeMonth": 524,
     "timeYear": 524,
-    "dailyMinutesDown": {
-      "2021-03-02": 2,
-      "2021-03-01": 31
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Status",
@@ -68,20 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/status.discord-html.tk",
     "slug": "status",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 414,
-    "timeWeek": 261,
+    "timeDay": 324,
+    "timeWeek": 257,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {
-      "2021-03-02": 2,
-      "2021-03-01": 31
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -94,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 769,
-    "timeDay": 208,
-    "timeWeek": 1400,
-    "timeMonth": 769,
-    "timeYear": 769,
+    "time": 752,
+    "timeDay": 173,
+    "timeWeek": 203,
+    "timeMonth": 752,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2021-03-02": 2
     }

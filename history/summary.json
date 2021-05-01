@@ -4,17 +4,17 @@
     "url": "https://discordhtml-demo.daguacaplushy.repl.co",
     "icon": "https://favicons.githubusercontent.com/discordhtml-demo.daguacaplushy.repl.co",
     "slug": "demo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1270,
-    "timeDay": 19560,
-    "timeWeek": 7531,
-    "timeMonth": 2092,
-    "timeYear": 1270,
+    "time": 1426,
+    "timeDay": 17664,
+    "timeWeek": 8165,
+    "timeMonth": 2470,
+    "timeYear": 1426,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 561,
     "timeDay": 0,
     "timeWeek": 2167,
-    "timeMonth": 709,
+    "timeMonth": 725,
     "timeYear": 561,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 497,
     "timeDay": 278,
     "timeWeek": 343,
-    "timeMonth": 470,
+    "timeMonth": 474,
     "timeYear": 497,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 311,
     "timeDay": 387,
     "timeWeek": 310,
-    "timeMonth": 301,
+    "timeMonth": 302,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2021-03-02": 2,
@@ -88,7 +88,7 @@
     "time": 612,
     "timeDay": 0,
     "timeWeek": 1458,
-    "timeMonth": 482,
+    "timeMonth": 492,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2021-03-02": 2

@@ -79,17 +79,17 @@
     "url": "$API_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 206,
-    "timeWeek": 212,
-    "timeMonth": 493,
-    "timeYear": 570,
+    "time": 565,
+    "timeDay": 170,
+    "timeWeek": 203,
+    "timeMonth": 482,
+    "timeYear": 565,
     "dailyMinutesDown": {
       "2021-03-02": 2
     }

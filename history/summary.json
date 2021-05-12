@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1280,
     "timeDay": 265,
-    "timeWeek": 310,
+    "timeWeek": 321,
     "timeMonth": 2536,
     "timeYear": 1280,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 528,
     "timeDay": 269,
-    "timeWeek": 338,
+    "timeWeek": 354,
     "timeMonth": 717,
     "timeYear": 528,
     "dailyMinutesDown": {}
@@ -79,7 +79,7 @@
     "url": "$API_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,7 +87,7 @@
     "uptimeYear": "100.00%",
     "time": 548,
     "timeDay": 208,
-    "timeWeek": 222,
+    "timeWeek": 233,
     "timeMonth": 473,
     "timeYear": 548,
     "dailyMinutesDown": {
